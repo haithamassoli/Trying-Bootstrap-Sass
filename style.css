@@ -1,0 +1,5 @@
+.menu {
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(13, 110, 253, 0.95)), to(rgba(13, 253, 241, 0.95)));
+  background-image: linear-gradient(to right, rgba(13, 110, 253, 0.95), rgba(13, 253, 241, 0.95));
+}
+/*# sourceMappingURL=style.css.map */
